@@ -1,4 +1,4 @@
-# Market Research and Financial Analysis: ZLAB
+# Market Research & Financial Analysis: ZLAB
 ---
 <img src="Images/zlab.png" />
 
