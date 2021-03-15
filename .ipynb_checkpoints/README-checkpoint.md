@@ -51,32 +51,32 @@ In the first half of 2021, NMPA may approve the NDA submitted for QINLOCK® (rip
 
 | Molecule Name               | Drug-Origin | Pre-Clinical | Phase 1 | Phase 2 | Phase 3 | NDA Filed | Marketed | 
 | --------------------------- | ----------- |------------ | ------- | ------- | ------- | --------- | -------- |
-| Niraparib (PARP)            | GlaxoSmithKline | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | 
-| Tumor Treating Fields       | Novacure |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> |
-| Ripretinib (KIT, PDGFRα)    | Deciphera |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> |   |
-| Odronextamab (CD20xCD3)     | Regeneron |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | | |
-| Repotrectinib (ROS1, TRK)   | Turning Point |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | | |
-| Margetuximab (HER2)         | MacroGenics |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | | |
-| Bemarituzumab (FGFR2b)      | Five Prime |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | | | |
-| CLN-081 (EGFR ex20ins)      | Cullinan |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | | | |
-| TPX-0022 (MET)              | Turning Point |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | | | | |
-| Tebotelimab (PD-1xLAG-3)    | MacroGenics |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | | | |
-| Retifanlimab (PD-1)         | Incyte |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | | |
-| ZL-2309 (CDC7)              | Self-Originated |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | | | | |
-| ZL-1201 (CD47)              | Self-Originated |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | | | | |
-| ZL-1211                     | Self-Originated |<ul><li> [x] </li></ul> | | | | | |
-| ZL-2201                     | Self-Originated |<ul><li> [x] </li></ul> | | | | | |
-| ZL-1218                     | Self-Originated |<ul><li> [x] </li></ul> | | | | | |
-| ZL-2103                     | Self-Originated |<ul><li> [x] </li></ul> | | | | | |
+| Niraparib (PARP)            | GlaxoSmithKline | X | X | X | X | X | X | 
+| Tumor Treating Fields       | Novacure | X | X | X | X | X | X |
+| Ripretinib (KIT, PDGFRα)    | Deciphera | X | X | X | X | X | |
+| Odronextamab (CD20xCD3)     | Regeneron | X | X | X | X | | |
+| Repotrectinib (ROS1, TRK)   | Turning Point | X | X | X | X | | |
+| Margetuximab (HER2)         | MacroGenics | X | X | X | X | | |
+| Bemarituzumab (FGFR2b)      | Five Prime | X | X | X | | | |
+| CLN-081 (EGFR ex20ins)      | Cullinan | X | X | X | | | |
+| TPX-0022 (MET)              | Turning Point | X | X | | | | |
+| Tebotelimab (PD-1xLAG-3)    | MacroGenics | X | X | X | | | |
+| Retifanlimab (PD-1)         | Incyte | X | X | X | X | | |
+| ZL-2309 (CDC7)              | Self-Originated | X | X | | | | |
+| ZL-1201 (CD47)              | Self-Originated | X | X | | | | |
+| ZL-1211                     | Self-Originated | X | | | | | |
+| ZL-2201                     | Self-Originated | X | | | | | |
+| ZL-1218                     | Self-Originated | X | | | | | |
+| ZL-2103                     | Self-Originated | X | | | | | |
 
 #### Infectious Disease and Autoimmune Products
 
 | Molecule Name               | Partner | Pre-Clinical | Phase 1 | Phase 2 | Phase 3 | NDA Filed | Marketed | 
 | --------------------------- | ------- | ------------ | ------- | ------- | ------- | --------- | -------- |
-| Omadacycline                | Paratek |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | | 
-| Sulbactam-Durlobactam       | Entasis |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | | |
-| Efgartigimod (FcRn)         | Argenx  |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | | |
-| ZL-1102 (IL-17)             | Self-Originated |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul> | | | | |
+| Omadacycline                | Paratek |X | X | X | X | X | | 
+| Sulbactam-Durlobactam       | Entasis |X | X | X | X | | |
+| Efgartigimod (FcRn)         | Argenx  |X | X | X | X | | |
+| ZL-1102 (IL-17)             | Self-Originated |X | X | | | | |
 
 #### Market Sentiment
 
