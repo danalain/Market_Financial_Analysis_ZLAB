@@ -51,7 +51,7 @@ In the first half of 2021, NMPA may approve the NDA submitted for QINLOCK® (rip
 
 | Molecule Name               | Drug-Origin | Pre-Clinical | Phase 1 | Phase 2 | Phase 3 | NDA Filed | Marketed | 
 | --------------------------- | ----------- |------------ | ------- | ------- | ------- | --------- | -------- |
-| Niraparib (PARP)            | GlaxoSmithKline |<ul><li> [x] </li><li> | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| Niraparib (PARP)            | GlaxoSmithKline |<ul><li> [x] </li></ul> | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Tumor Treating Fields       | Novacure |:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Ripretinib (KIT, PDGFRα)    | Deciphera |:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |   |
 | Odronextamab (CD20xCD3)     | Regeneron |:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | |
