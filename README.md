@@ -96,7 +96,7 @@ A quick look at the market sentiment for Zai Lab suggests that it is relatively 
 | ------------------------------------------------ |
 | <img src="Images/pie_sentiment.png" width="800" /> |
 
-The latest decline in sentiment is due to the burst in the tech stock bubble. In 2020, many investors overcrowded their investments in the technology sector which were not adversely affected by the pandemic. When the 10-year treasury bond-yields rates increased with high velocity on February 19th, many institutional investors reallocated their assets into value stocks. Nonetheless, the correlation between the 10-year bond rates and the tech stock is unclear. 
+The latest decline in sentiment is due to the burst in the tech stock bubble. In 2020, many investors overcrowded their investments in the technology sector which were not adversely affected by the pandemic. When the 10-year treasury bond-yields rates increased with high velocity on February 19th, many institutional investors reallocated their assets into value stocks. Nonetheless, the correlation between the 10-year bond rates and the tech stocks is unclear. 
 
 Only when the rates increase with high-velocity can one witness a sell-off in the tech stocks for the days between February 19th and March 12th. As of writing this, the date is March 14th. We may or may not see more sell-off. 
 
